@@ -2,7 +2,7 @@ package org.flow.testgit;
 
 
 @Service
-public class UserServise {
+public class UserService {
 	 public void saveUser(User user) {
 		  // some logic
 	 }
